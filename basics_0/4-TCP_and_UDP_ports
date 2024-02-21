@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# display the list of all the ports that are currently
+# open on your system
+neststat -1 --program
